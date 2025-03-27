@@ -25,7 +25,8 @@ In MongoDB database we can implement variety of examples :
 In MySQL part we are implemented banking management database with variety of operations:
 
 ### Database Schema
-![erddatabaseproject](https://github.com/user-attachments/assets/f1fe5172-474c-4b91-adda-49df62de419f)
+![WhatsApp Image 2025-03-27 at 3 38 43 PM](https://github.com/user-attachments/assets/aeaa9867-e858-4371-96c9-36396bcdf575)
+
 
 Database Contains following tables :
 
