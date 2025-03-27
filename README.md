@@ -57,6 +57,7 @@ Database Contains following tables :
 
 
 ## License
+This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
 
 ## Acknowledgments
 
